@@ -1,0 +1,25 @@
+{
+  "name": "typescript-currencyconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaoor1994/typescript-currencyConverter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaoor1994/typescript-currencyConverter/issues"
+  },
+  "homepage": "https://github.com/shaoor1994/typescript-currencyConverter#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4"
+  }
+}
